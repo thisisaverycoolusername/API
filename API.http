@@ -1,0 +1,7 @@
+@API_HostAddress = http://localhost:5063
+##Martin Dator
+
+GET {{API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
